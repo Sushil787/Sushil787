@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Any
 - 📫 How to reach me: ...itsushil100@outlook.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I 
+- ⚡ Fun fact: ...
 -->
