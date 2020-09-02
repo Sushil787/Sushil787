@@ -8,5 +8,5 @@
 - 💬 Ask me about ... books
 - 📫 How to reach me: ...itsushil100@outlook.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...i am happy
+- ⚡ Fun fact: ... From Sand to Microprocessor
 - ![Test Image 4](https://learncodeonline.in/gittwo.png)
