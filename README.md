@@ -15,4 +15,3 @@ itsushil100@outlook.com
 <img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sushil787&show_icons=true&hide_border=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushil787&theme=tokyonight)
-
