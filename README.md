@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Friends 👋
 
 
 - 🔭 I’m currently working on ...Maths
