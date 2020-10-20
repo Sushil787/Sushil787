@@ -1,8 +1,8 @@
-### Hi Friends 👋
+### Hi Friends 
 
 
 - 🔭 I’m currently working on ...Maths
-- 🌱 I’m currently learning ...C/Python
+- 🌱 I’m currently learning ...**Python**
 - 👯 I’m looking to collaborate on ...Programming
 - 🤔 I’m looking for help with ...ML
 - 💬 Ask me about ... books
