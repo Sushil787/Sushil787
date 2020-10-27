@@ -1,5 +1,6 @@
 ### Namaste :pray:
 
+-  :octocat: Full - Name: ...<i> <b>Sushil Gyawali</b></i>
 - 📫 How to reach me: ... itsushil100@outlook.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... From Sand to silicon to Microprocessor.
