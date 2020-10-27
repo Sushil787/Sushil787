@@ -1,4 +1,4 @@
-### Hi Friends 
+### Namaste :pray:
 
 - 📫 How to reach me: ... itsushil100@outlook.com
 - 😄 Pronouns: ...He/Him
