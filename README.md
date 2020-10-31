@@ -1,4 +1,5 @@
-### Namaste :pray:
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=timeAuto&height=300&section=header&text=Namaste%20&fontSize=90" />
 
 -  :octocat: Full - Name: ...<i> <b>Sushil Gyawali</b></i>
 - 📫 How to reach me: ... itsushil100@outlook.com
